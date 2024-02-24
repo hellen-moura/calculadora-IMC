@@ -15,4 +15,4 @@ Nesta aula, finalizamos o desenvolvimento de uma calculadora de Índice de Massa
 
 1. Clone este repositório em sua máquina local.
    ```bash
-   git clone [https://github.com/hellen-moura/calculadora-IMC.git]
+   git clone https://github.com/hellen-moura/calculadora-IMC.git
